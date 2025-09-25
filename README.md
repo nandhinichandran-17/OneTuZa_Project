@@ -46,3 +46,7 @@ Notes & configuration
 	•	By default the project uses SentenceTransformers (all-MiniLM-L6-v2) for embeddings (no external key).
 	•	Set OPENAI_API_KEY to use OpenAI to produce higher-quality summarizations (see .env.example).
 	•	Optionally set SERPAPI_API_KEY to use SerpAPI for broader web results. If not set, the app falls back to Wikipedia.
+<img width="2560" height="1600" alt="Screenshot 2025-09-25 122016" src="https://github.com/user-attachments/assets/6d4314fa-e431-4cd0-a8b5-f18<img width="2560" height="1600" alt="Screenshot 2025-09-25 122047" src="https://github.com/user-attachments/assets/31551e6b-ba4f-4821-a3d6-24cade514a88" />
+72b083e1a"<img width="2560" height="1600" alt="Screenshot 2025-09-25 122111" src="https://github.com/user-attachments/assets/1f152b8e-cd7c-459c-b210-5bbd5ae0a433" />
+ />
+
