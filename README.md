@@ -47,9 +47,7 @@ Notes & configuration
 	•	Set OPENAI_API_KEY to use OpenAI to produce higher-quality summarizations (see .env.example).
 	•	Optionally set SERPAPI_API_KEY to use SerpAPI for broader web results. If not set, the app falls back to Wikipedia.
 
-
 ## 📸 Screenshots
-
 ### Home Page
 ![Home Page](Screenshots/Homepage.png)
 
