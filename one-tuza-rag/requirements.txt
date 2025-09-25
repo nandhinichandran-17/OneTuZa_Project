@@ -1,0 +1,28 @@
+# Core
+streamlit==1.26.0
+pydantic
+python-dotenv
+tqdm
+wheel
+
+# Document handling
+pypdf==3.12.0
+markdown2==2.4.2
+
+# Vector store + embeddings
+faiss-cpu==1.7.4
+sentence-transformers==2.2.2
+numpy
+
+# Web search
+wikipedia-api==0.5.4
+requests
+
+# LLM client (OpenAI)
+openai==0.28.0
+
+# Optional (LangChain helper functions if you prefer)
+langchain==0.1.0
+
+# For better output formatting
+rich==13.6.0
