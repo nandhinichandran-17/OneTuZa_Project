@@ -48,3 +48,13 @@ Notes & configuration
 	•	Optionally set SERPAPI_API_KEY to use SerpAPI for broader web results. If not set, the app falls back to Wikipedia.
 
 
+## 📸 Screenshots
+
+### Home Page
+![Home Page](Screenshots/Homepage.png)
+
+### Search-results Output
+![Search Results](Screenshots/Searchresults.png)
+
+### Final-report and traceability
+![Report Output](Screenshots/Finalreport.png)
