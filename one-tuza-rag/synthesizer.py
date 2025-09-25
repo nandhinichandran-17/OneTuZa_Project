@@ -8,7 +8,7 @@ import re
 # Setup key
 OPENAI_KEY = os.getenv("OPENAI_API_KEY")
 if OPENAI_KEY:
-    openai.api_key = "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"
+    openai.api_key = "Your_Key"
 
 
 def safe_snippet(text: str, max_len: int = 180) -> str:
@@ -110,3 +110,4 @@ def build_report(question: str, plan: List[str], local_hits: List[Dict], web_hit
         "local_hits": local_hits,
         "web_hits": web_hits
     }
+
